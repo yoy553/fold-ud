@@ -1,6 +1,6 @@
 # fold-ud
 
-This directory contains Coq scripsts discussed in the paper. 
+The directory dual contains Coq scripsts discussed in the paper. 
 
 Title : Program Equivalence by Generalization of Second Fold Duality
 Author: Yosuke Yamamot and Chris Dutchyn
