@@ -22,8 +22,12 @@ Fact.v     : factorial functions (section 1)
 Insert.v   : insert functions (section 4.1)
 
 ./Ref      : Two finger relocate function for a simple gc (section 4.2)
-RefImp.v   : the relocate function 
-RefFold.v  : the relocate function implemented by using 
+RefImp.v   : relocates function for a lanugage used in [1] and emplemented as
+             an anser to one of exercises.
+RefFold.v  : relocates function implemented by using 
              upward and downward unary recursion 
+             
 
-
+   [1] Benjamin C. Pierce, Chris Casinghino, Michael Greenberg, et al. 
+           Software Foundations. http://www.cis.upenn.edu/~bcpierce/sf
+           Mar 2011. 
