@@ -1,5 +1,3 @@
-# fold-ud
-
 The directory dual contains Coq scripsts (ver.8.6) discussed in the paper. 
 
 Title : Program Equivalence by Generalization of Second Fold Duality
